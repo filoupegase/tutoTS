@@ -19,5 +19,8 @@
   "homepage": "https://github.com/filoupegase/tutoTS#readme",
   "devDependencies": {
     "typescript": "^4.6.3"
+  },
+  "dependencies": {
+    "normalize.css": "^8.0.1"
   }
 }
