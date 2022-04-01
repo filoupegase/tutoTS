@@ -1,5 +1,5 @@
 {
-  "name": "tutoTS",
+  "name": "tutots",
   "version": "1.0.0",
   "description": "first step with TypeScript",
   "main": "index.js",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/filoupegase/tutoTS/issues"
   },
-  "homepage": "https://github.com/filoupegase/tutoTS#readme"
+  "homepage": "https://github.com/filoupegase/tutoTS#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
 }
